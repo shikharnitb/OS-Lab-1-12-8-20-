@@ -1,3 +1,3 @@
 # Operating System Lab Assignments 
-# NIT Bhopal
-# 5th Semester 2020
+NIT Bhopal
+5th Semester 2020
