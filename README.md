@@ -4,7 +4,7 @@ NIT Bhopal
 
 Assignment-1
 
-Implement the fork (Lab 1) and Multithread Prog Fibonacci (Lab 1)
+Implement the fork (lab_1_a) and Multithread Prog Fibonacci (lab_1_b)
 
 Assignment-2
 
