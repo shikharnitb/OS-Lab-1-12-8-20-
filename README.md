@@ -20,3 +20,11 @@ Assignment-4
 Assignment-5
 
 Multi-thread program of fibonacci series (lab_5_a) and C program to show multiple threads with local, global and static variables (lab_5_b)
+
+Assignment-6
+
+Implementing Binary Semaphore Code (lab_6_a), Peterson's Algorithm(lab_6_b) and Race condition using fork() (lab_6_c)
+
+Assignment-7
+
+Producer and Consumer Classical Process Synchronization (lab_7_a) and Reader and Writer Classical Process Synchronization (lab_7_b)
